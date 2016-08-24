@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
 ```
 
 参考文档详情查看[CSDN博客](http://blog.csdn.net/zhaoyw2008/article/details/46008513)
-
+React Native 自适应布局方案(https://segmentfault.com/a/1190000004878644)
 
 ##Transform.js解析
 
